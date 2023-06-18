@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+
+import {RouterComponent} from "./RouterComponent";
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+document.getElementById("root").className="w-full h-full";
+
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterComponent/>
   </React.StrictMode>
 );
 

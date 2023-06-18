@@ -1,0 +1,11 @@
+what do we want
+application to track the damn job offer i am about to answer to
+
+what should it track
+the offer(obviously):Title, society(name,info,phone, mail), description, date it was made, if it was answered or not , answer if yes , 
+
+action possible:
+add an offer;
+archive an offer(so it doesnt show up once answered);
+edit an offer(to add a response,change name or description);
+
